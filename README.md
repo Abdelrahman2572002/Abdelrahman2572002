@@ -22,16 +22,37 @@ Junior AI Engineer with expertise in Computer Vision, NLP, and deep learning, de
 
 <br/>
 
+## 👋 About
+
+I'm a Junior AI Engineer based in Cairo, Egypt, building computer vision and NLP systems end-to-end — from research paper implementation to production deployment. My background spans multi-camera perception, OCR, speech AI, and LLM/RAG applications, with a BS in Computer Science (AI Department) from Cairo University.
+
+## 🚀 What I'm Working On
+
+* 📷 Computer Vision and multi-camera perception systems
+* 🧠 LLM and RAG applications
+* 🤖 AI agents and automation workflows
+* ⚙️ Model deployment and production-ready AI systems
+
+<br/>
+
 ## 🧰 Tech Stack
 
 <div align="center">
 
-**Core**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Deep Learning & Computer Vision**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **LLM & GenAI**
@@ -39,10 +60,26 @@ Junior AI Engineer with expertise in Computer Vision, NLP, and deep learning, de
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Infrastructure & Data**
+**Data & Visualization**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikitlearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**MLOps & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square&logo=meta&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
@@ -50,26 +87,13 @@ Junior AI Engineer with expertise in Computer Vision, NLP, and deep learning, de
 
 <br/>
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-### 🎯 [Multi-Camera Object Tracking — WildTrack](https://github.com/Abdelrahman2572002/Multi_Camera_Object_Tracking-WildTrack-Dataset-Introduction)
-A modular, Kaggle-ready pipeline for multi-view pedestrian detection and tracking, built around an early-fusion Bird's-Eye-View (BEV) architecture and evaluated on the WILDTRACK dataset (7 calibrated, overlapping cameras). Adapts the **EarlyBird** early-fusion BEV approach (Teepe et al., WACV 2024 Workshops), wiring a full detection → BEV fusion → tracking → metrics stack into a single reproducible notebook.
-
-`Python` `PyTorch` `OpenCV` `Kalman Filtering` `Re-ID`
-
----
-
-### 🎙️ [Audify](https://github.com/Abdelrahman2572002/Audify)
-An AI-powered tool that simplifies audio editing by letting users edit speech through text — instead of manually re-recording or trimming audio, users modify the transcript and the system automatically updates the audio to match. Focused especially on supporting **Egyptian Arabic**.
-
-`Speech Processing` `NLP` `Arabic NLP`
-
----
-
-### 🤖 [Customer Support Chatbot](https://github.com/Abdelrahman2572002/Customer-Support-Chatbot)
-An AI-powered customer support assistant using Retrieval-Augmented Generation (RAG) to answer customer queries with accurate, context-aware responses grounded in company knowledge (docs, FAQs, support data) — reducing hallucinations and improving trust versus a plain LLM.
-
-`LangChain` `OpenAI` `Flask` `FAISS/Chroma` `Docker`
+| Role | Company | Year |
+|---|---|---|
+| **AI & Automation Engineer** | Telecom Egypt | Sep 2026 – Present |
+| AI Engineer Intern | Fawry | Jun 2026 – Sep 2026 |
+| AI Engineer Intern | ITI | 2023 |
 
 <br/>
 
