@@ -91,7 +91,7 @@ I'm a Junior AI Engineer based in Cairo, Egypt, building computer vision and NLP
 
 | Role | Company | Year |
 |---|---|---|
-| **AI & Automation Engineer** | Telecom Egypt | Sep 2026 – Present |
+| **AI & Data Engineer** | Telecom Egypt | Sep 2026 – Present |
 | AI Engineer Intern | Fawry | Jun 2026 – Sep 2026 |
 | AI Engineer Intern | ITI | 2023 |
 
